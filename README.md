@@ -37,7 +37,7 @@
 
 `Ответ:`
 
-![Страница Хостов](https://github.com/ultrmlvn/zabbix2/blob/main/Hosts%items.png)
+![Страница Хостов](hhttps://github.com/ultrmlvn/zabbix2/blob/main/Hosts%20items.png)
 
 
 ---
